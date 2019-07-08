@@ -1,7 +1,7 @@
 # reports
 university reports/notes
 
-## usage
+## usage of md
 make markdown files in vim,  
 and use this to convert to PDF.  
 `https://www.markdowntopdf.com/`  
