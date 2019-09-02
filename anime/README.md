@@ -1,7 +1,7 @@
 # Anime Report
 
 ## Over Lord
-!(alt)[./overlord.png]
+!(alt)[overlord.png]
 
 ## Reborn slime
-!(alt)[./slime.png]
+!(alt)[slime.png]
