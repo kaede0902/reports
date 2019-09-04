@@ -1,36 +1,7 @@
 
 # Oil History
 ## Key Word
-P  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  enssylvania/Titusville/OilCreek, Oli rush, Edwin L Drake, 1859, rock oil,
+Penssylvania/Titusville/OilCreek, Oli rush, Edwin L Drake, 1859, rock oil,
 ## History Intro
 ### starts
 It's shallow story.  
@@ -40,10 +11,6 @@ Not to ruin crops. Later used alt to `whale oil` for lamp.
 
 
 ![Penn](img/penn.png)
-
-
-### others??
-lorem30
 ### As lamp
 After Drake, Americans started to use petroleum as warmer or light.  
 With indestorialization, urbanization, lights to new century, 
@@ -75,13 +42,6 @@ Kier became wealthy.
 1850s, He started drill for crude oil. 
 Then inventors and scientists started to use for energy.  
 
-
-![Photo by NASA on Unsplash](img/nasa.jpg)
-
-
-
----
-ch01
 ## Petrolem Industory starts
 ### Drake
 He was working in mine, did many things.  
@@ -110,7 +70,7 @@ light" in America, and exported Europe. Petrolem market is open
 internationaly.  
 
 
-![lamp](img/lamp.jpeg)
+![lamp](img/lamp.jpg)
 
 
 ### Rockfeller
