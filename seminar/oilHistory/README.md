@@ -7,7 +7,11 @@ It's shallow story.
 Starts after 1859. In Pennsylvania, by Colonel Drake.  
 Before that, Oil was discoverd just by surface as `oil seep`.  
 Not to ruin crops. Later used alt to `whale oil` for lamp.  
+
+
 ![Penn](img/penn.png)
+
+
 ### others??
 lorem30
 ### As lamp
@@ -17,7 +21,11 @@ more convinient life generalization and proceed background,
 New market existed. 
 So enough amount, simplicity, safety are needed.  
 In this condition, produce, circulation, handy price.  
+
+
 ![tbilisi](img/tbilisi.jpeg)
+
+
 ### Production
 This industory appeared in the 19c, rapidly update human living 
 environment in 20c.  
@@ -38,7 +46,11 @@ and found its same as medical oil.
 Kier became wealthy. 
 1850s, He started drill for crude oil. 
 Then inventors and scientists started to use for energy.  
+
+
 ![Photo by NASA on Unsplash](img/nasa.jpg)
+
+
 
 ---
 ch01
@@ -51,11 +63,17 @@ He hired Edwin Laurentine Drake (1819-1880) as a leader.
 He speaks Big and Strong Voice. He was called Colonel Drake.  
 In 1857, the project started. It took long time, said Drake's folly, 
 but he never stopped. In 1859.08.27, Petrolem welled up.  
+
+
 ![edwin](img/edwin.jpg)
+
 ### Petroleum Period.
 entrepreneurs, many workers, service and equipment supplier, 
 many people gathered in Titusville.  
-1861: 3000 barrel (160L * 300)
+1861: Dialy 3000 barrel (1 barrel 160L) production well appeared.  
+1860: Under 10t by a year,  
+1862: 50t.  
+Then price rapidly down. In 1861 20$ to 10s cent by 1 barrel.  
 
 ## words
 gas == rock oil == petroleum == crude oil
