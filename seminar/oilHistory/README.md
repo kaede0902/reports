@@ -38,7 +38,7 @@ and found its same as medical oil.
 Kier became wealthy. 
 1850s, He started drill for crude oil. 
 Then inventors and scientists started to use for energy.  
-![Photo by NASA on Unsplash](nasa.jpg)
+![Photo by NASA on Unsplash](img/nasa.jpg)
 
 ---
 ch01
@@ -51,7 +51,7 @@ He hired Edwin Laurentine Drake (1819-1880) as a leader.
 He speaks Big and Strong Voice. He was called Colonel Drake.  
 In 1857, the project started. It took long time, said Drake's folly, 
 but he never stopped. In 1859.08.27, Petrolem welled up.  
-![edwin](edwin.jpg)
+![edwin](img/edwin.jpg)
 ### Petroleum Period.
 entrepreneurs, many workers, service and equipment supplier, 
 many people gathered in Titusville.  
