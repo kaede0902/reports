@@ -65,7 +65,7 @@ In 1857, the project started. It took long time, said Drake's folly,
 but he never stopped. In 1859.08.27, Petrolem welled up.  
 
 
-![edwin](img/edwin.jpg)
+![edwin](img/EdwinDrakePortrait.jpg)
 
 ### Petroleum Period.
 entrepreneurs, many workers, service and equipment supplier, 
