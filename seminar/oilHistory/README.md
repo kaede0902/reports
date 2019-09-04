@@ -7,6 +7,7 @@ It's shallow story.
 Starts after 1859. In Pennsylvania, by Colonel Drake.  
 Before that, Oil was discoverd just by surface as `oil seep`.  
 Not to ruin crops. Later used alt to `whale oil` for lamp.  
+![Penn](img/penn.png)
 ### others??
 lorem30
 ### As lamp
