@@ -9,7 +9,7 @@ Before that, Oil was discoverd just by surface as `oil seep`.
 Not to ruin crops. Later used alt to `whale oil` for lamp.  
 
 
-![Penn](img/penn.png)
+![Penn](img/houses.jpg)
 
 
 ### others??
@@ -22,9 +22,7 @@ New market existed.
 So enough amount, simplicity, safety are needed.  
 In this condition, produce, circulation, handy price.  
 
-
-![tbilisi](img/tbilisi.jpeg)
-
+![tbilisi]()
 
 ### Production
 This industory appeared in the 19c, rapidly update human living 
@@ -94,7 +92,7 @@ Has high mental arithmetic skill, superior from a child.
 He updated every quipment for petroleum trade, manage all cost. And used pipeline for 
 both materials and product.
 
-![rockfeller](img/rockfeller.jpg)
+![rockfeller](img/rock.jpg)
 
 ### Standard Oil
 1870.01.10 starts. 'Standards' from the best quarity of the market. Negotiated to 
@@ -103,9 +101,18 @@ train company, by the massive transport amount, got discount.
 connect oil production region and Penn and Reading Train station. 
 It reduce cost a lot, but Standard Oil made 4 pipeline in 2 years, 
 It ruled the market of 80%.  
+1888, German scientist Helman get rid of H2S from petroleum, ruled production.  
+
 
 ![Standard](img/standard.jpg)
 
+### Russ Oil
+Rothchild and Nobel are 20 ~ 30% of the Europe Oil. 
+
+### Other Company
+Pure Oil formed trust in 1895, had 14 refinery, 500k ton petroleum, 
+3Million Meter Pipeline, tankers, but other include Melon are eaten 
+by Standard Oil.  
 
 
 
