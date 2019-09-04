@@ -59,8 +59,7 @@ but he never stopped. In 1859.08.27, Petrolem welled up.
 entrepreneurs, many workers, service and equipment supplier, 
 many people gathered in Titusville.  
 1861: Dialy 3000 barrel (1 barrel 160L) production well appeared.  
-1860: Under 10t by a year,  
-1862: 50t.  
+1860: Under 10t by a year, 1862: 50t.  
 Then price rapidly down. In 1861 $20 to 10s cent by 1 barrel.  
 But lamp oil's market became bigger, so the price of a barrel 
 recovered to $7 ~ $8. However supply increase again, so the price 
@@ -68,7 +67,6 @@ down to around $1. To ajust the price, market is built eventually.
 Through this, petroleum lamp got popular, and said "The most beautiful
 light" in America, and exported Europe. Petrolem market is open 
 internationaly.  
-
 
 ![lamp](img/lamp.jpg)
 
