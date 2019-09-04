@@ -73,15 +73,53 @@ many people gathered in Titusville.
 1861: Dialy 3000 barrel (1 barrel 160L) production well appeared.  
 1860: Under 10t by a year,  
 1862: 50t.  
-Then price rapidly down. In 1861 20$ to 10s cent by 1 barrel.  
+Then price rapidly down. In 1861 $20 to 10s cent by 1 barrel.  
+But lamp oil's market became bigger, so the price of a barrel 
+recovered to $7 ~ $8. However supply increase again, so the price 
+down to around $1. To ajust the price, market is built eventually.  
+Through this, petroleum lamp got popular, and said "The most beautiful
+light" in America, and exported Europe. Petrolem market is open 
+internationaly.  
+
+
+![lamp](img/lamp.jpeg)
+
+
+### Rockfeller
+founder of the Standard Oil Company, world’s wealthiest men.  
+Born in 1839, diligent and economical man. No alcohol and smoke.  
+Has high mental arithmetic skill, superior from a child.  
+1855, At 16, worked as an office clerk, at 20 established their own commission firm. 
+1863, Rockefeller and several partners entered the booming new oil industry 
+He updated every quipment for petroleum trade, manage all cost. And used pipeline for 
+both materials and product.
+
+![rockfeller](img/rockfeller.jpeg)
+
+### Standard Oil
+1870.01.10 starts. 'Standards' from the best quarity of the market. Negotiated to 
+train company, by the massive transport amount, got discount.  
+1879 Pipline battle against union of Penn starts. They made huge pipeline 
+connect oil production region and Penn and Reading Train station. 
+It reduce cost a lot, but Standard Oil made 4 pipeline in 2 years, 
+It ruled the market of 80%.  
+
+![Standard](standard.jpg)
+
+
+
 
 ## words
 gas == rock oil == petroleum == crude oil
 
 ## ref
-https://en.wikipedia.org/wiki/Pennsylvania_oil_rush
-[Petrolem History ]
-book P.10
+[Wikipedia/Penssylvania oil rush]
+(https://en.wikipedia.org/wiki/Pennsylvania_oil_rush )
+[Petrolem History]
+(book P10+)
 [First American Oil Well]
 (https://aoghs.org/petroleum-pioneers/american-oil-history/)
+[history.com/John D. Rockefeller]
+(https://www.history.com/topics/early-20th-century-us/john-d-rockefeller)
+
 
