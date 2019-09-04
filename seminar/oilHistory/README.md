@@ -113,6 +113,18 @@ Cars replaced horses, planes starts to attack, internal combustion engine
 made `tank`. Diesel engine update submrine. Cousuming Peek was 1918. 
 This `Oil Wave` brought Allies win. `Blood of the earth ` for win. 
 
+### After WWII
+America stayed the leader of the world. Production ability is always over 
+demand, price is dropping. By geological observation and analize, and 
+identification century of the hole digged, especially earth physics, 
+digging technology proceeded, safer and faster. New system Proportional 
+distribution stabled oil price. 
+
+### WWII
+Japan and Germany suffered from lacking oil. In 1994, America take Pacific 
+Ocean back again, so Japanse oil was almost 0 at end of the war.  
+However allies had enough oil. France and UK stored enough oil, and managed 
+well, America boost oil prodcution. 
 
 ## words
 gas == rock oil == petroleum == crude oil
