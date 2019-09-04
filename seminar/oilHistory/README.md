@@ -120,6 +120,8 @@ identification century of the hole digged, especially earth physics,
 digging technology proceeded, safer and faster. New system Proportional 
 distribution stabled oil price. 
 
+![tank](img/tank.jpg)
+
 ### WWII
 Japan and Germany suffered from lacking oil. In 1994, America take Pacific 
 Ocean back again, so Japanse oil was almost 0 at end of the war.  
@@ -138,5 +140,7 @@ gas == rock oil == petroleum == crude oil
 (https://aoghs.org/petroleum-pioneers/american-oil-history/)
 [history.com/John D. Rockefeller]
 (https://www.history.com/topics/early-20th-century-us/john-d-rockefeller)
+[World War 1 History: First Tank Versus Tank Battle]
+(https://owlcation.com/humanities/WWI-First-Tank-Versus-Tank-Battle)
 
 
