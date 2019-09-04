@@ -9,7 +9,7 @@ Before that, Oil was discoverd just by surface as `oil seep`.
 Not to ruin crops. Later used alt to `whale oil` for lamp.  
 
 
-![Penn](img/houses.jpg)
+![Penn](img/penn.png)
 
 
 ### others??
@@ -22,7 +22,7 @@ New market existed.
 So enough amount, simplicity, safety are needed.  
 In this condition, produce, circulation, handy price.  
 
-![tbilisi]()
+![houses](img/houses.jpg)
 
 ### Production
 This industory appeared in the 19c, rapidly update human living 
