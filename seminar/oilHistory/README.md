@@ -68,7 +68,7 @@ Through this, petroleum lamp got popular, and said "The most beautiful
 light" in America, and exported Europe. Petrolem market is open 
 internationaly.  
 
-![lamp](img/lamp_2.jpg)
+![lamp](img/lamp_s.jpg)
 
 
 ### Rockfeller
