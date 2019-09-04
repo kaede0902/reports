@@ -94,7 +94,7 @@ Has high mental arithmetic skill, superior from a child.
 He updated every quipment for petroleum trade, manage all cost. And used pipeline for 
 both materials and product.
 
-![rockfeller](img/rockfeller.jpeg)
+![rockfeller](img/rockfeller.jpg)
 
 ### Standard Oil
 1870.01.10 starts. 'Standards' from the best quarity of the market. Negotiated to 
@@ -104,7 +104,7 @@ connect oil production region and Penn and Reading Train station.
 It reduce cost a lot, but Standard Oil made 4 pipeline in 2 years, 
 It ruled the market of 80%.  
 
-![Standard](standard.jpg)
+![Standard](img/standard.jpg)
 
 
 
