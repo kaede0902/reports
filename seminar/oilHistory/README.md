@@ -17,13 +17,14 @@ more convinient life generalization and proceed background,
 New market existed. 
 So enough amount, simplicity, safety are needed.  
 In this condition, produce, circulation, handy price.  
+![tbilisi](img/tbilisi.jpeg)
 ### Production
 This industory appeared in the 19c, rapidly update human living 
 environment in 20c.  
-In 1873, a million tons.  
-1900: 10 million tons.
-1931: 100 million tons.
-1950: 1 billion tons.
+1873: a million tons.  
+1900: 10 million tons.  
+1931: 100 million tons.  
+1950: 1 billion tons.  
 1979: 3 billion tons.  
 No other industory expand like this.
 ### flow
@@ -37,6 +38,7 @@ and found its same as medical oil.
 Kier became wealthy. 
 1850s, He started drill for crude oil. 
 Then inventors and scientists started to use for energy.  
+![Photo by NASA on Unsplash](nasa.jpg)
 
 ---
 ch01
@@ -49,6 +51,7 @@ He hired Edwin Laurentine Drake (1819-1880) as a leader.
 He speaks Big and Strong Voice. He was called Colonel Drake.  
 In 1857, the project started. It took long time, said Drake's folly, 
 but he never stopped. In 1859.08.27, Petrolem welled up.  
+![edwin](edwin.jpg)
 ### Petroleum Period.
 entrepreneurs, many workers, service and equipment supplier, 
 many people gathered in Titusville.  
