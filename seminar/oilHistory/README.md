@@ -99,9 +99,19 @@ Rothchild and Nobel are 20 ~ 30% of the Europe Oil.
 
 ### Other Company
 Pure Oil formed trust in 1895, had 14 refinery, 500k ton petroleum, 
-3Million Meter Pipeline, tankers, but other include Melon are eaten 
+3 Million Meter Pipeline, tankers, but other include Melon are eaten 
 by Standard Oil.  
 
+## Before war
+1900s, 50 years from oil industory, market is growing and expanding, 
+Used by lamp, cars, boiler, machine oil, so production, refine, 
+and transport tech are developed eventually. Proceed. Standard is dead, 
+Mexico, Venezuela, Middle East joined this industory.
+
+### WWI
+Cars replaced horses, planes starts to attack, internal combustion engine 
+made `tank`. Diesel engine update submrine. Cousuming Peek was 1918. 
+This `Oil Wave` brought Allies win. `Blood of the earth ` for win. 
 
 
 ## words
