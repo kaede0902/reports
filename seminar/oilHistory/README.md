@@ -1,4 +1,3 @@
-
 # Oil History
 ## Key Word
 Penssylvania/Titusville/OilCreek, Oli rush, Edwin L Drake, 1859, rock oil,
@@ -30,6 +29,7 @@ environment in 20c.
 1950: 1 billion tons.  
 1979: 3 billion tons.  
 No other industory expand like this.
+
 ### flow
 Petrolem is the main matterial of this world which energy is based on 
 every industorial dev, economy dev and personal happiness.  
@@ -129,13 +129,17 @@ However allies had enough oil. France and UK stored enough oil, and managed
 well, America boost oil prodcution. 
 
 ## words
-gas == rock oil == petroleum == crude oil
+gas = rock oil = petroleum = crude oil  
+Not acculate
 
 ## ref
 [Wikipedia/Penssylvania oil rush]
 (https://en.wikipedia.org/wiki/Pennsylvania_oil_rush )
-[Petrolem History]
-(book P10+)
+[Petrolem History~From Rockefeller to Gulf War, by Daleont Etinne, translated by Miura Noritune, Bunko Quseju]  
+French Book.  
+(https://secure02.blue.shared-server.net/www.chickenhead.co.jp/cgi-bin/
+goodslist.cgi?mode=view_detail&this_num_genre=&this_num_goods=16&genre_id=00000116&goods_id=00000229)
+
 [First American Oil Well]
 (https://aoghs.org/petroleum-pioneers/american-oil-history/)
 [history.com/John D. Rockefeller]
@@ -143,4 +147,8 @@ gas == rock oil == petroleum == crude oil
 [World War 1 History: First Tank Versus Tank Battle]
 (https://owlcation.com/humanities/WWI-First-Tank-Versus-Tank-Battle)
 
-
+## Comment By Prof
+> Need to Write more about Middle East 
+> Or how America went to the WWII
+> You have to get wide knowledge for this theme.
+> Need to write more about Population.
