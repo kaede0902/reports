@@ -44,9 +44,13 @@ In the Shadow of the MoonをNetflixで観た．
 
 ![daughter](img/daughter.png)
 
-* しかし9年後，青パーカーが現れ，助けに来た相棒は射殺される．
+* しかし9年後，青パーカーが現れ，ふたたび事件は起きる
 
 ![blue_parker_again](img/blue_parker_again.png)
+![book2](img/book2.png)
+
+* 追い詰めるが捕まり，助けに来た相棒は射殺される．
+
 
 ![partner_came](img/partner_came.png)
 
@@ -57,10 +61,13 @@ In the Shadow of the MoonをNetflixで観た．
 続ける．
 
 ![private_detective](img/private_detective.png)
+![daughter_grown](img/daughter_grown.png)
 
 * 更に9年後，浮浪者のような生活で事件を追い続ける．
 孫娘が産まれる日と，あの青パーカーが来る日が被り，
 青パーカーを追うことを選ぶ主人公．
+
+![grand_daughter](img/grand_daughter.png)
 
 * そこでとうとう彼女を追い詰めて射殺しようとする主人公は
 真実を知って，自分が最初に地下鉄で彼女を殺した事実に
@@ -68,7 +75,7 @@ In the Shadow of the MoonをNetflixで観た．
 
 ![know_trueth](img/know_trueth.png)
 
-* 彼女は使命を遂げ，殺される．そして目的は達成される．
+* 彼女は自分が殺される過去に戻り，自分が殺される過去に戻り，自分が殺される過去に戻り，自分が殺される過去に戻り，自分が殺される過去に戻り，自分が殺される過去に戻り，自分が殺される過去に戻り，自分が殺される過去に戻り，使命を遂げ，殺される．そして目的は達成される．
 憎しみの連鎖，大きな戦争は防がれた．
 
 ![sea and moon](img/sea_moon.png)
