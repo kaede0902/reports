@@ -53,19 +53,27 @@ Name: RYO SATO
 
 ## Analysis (core)
 ### Material (Primary)
-(U.S. Energy Infomation Administration)
+U.S. Energy Infomation Administration
+
 https://www.eia.gov/totalenergy/data/monthly/#petroleum
 
+Annual Average Domestic Crude Oil  Prices
+
+https://inflationdata.com/articles/inflation-adjusted-prices/historical-crude-oil-prices-table/
+
+Oil: crude and petroleum products explained
+
+https://www.eia.gov/energyexplained/oil-and-petroleum-products/use-of-oil.php
+
 ### Contents, Focus
+* The price from 1946 to 2019 is $1.63 to $46.5.
 * From 1950, total energy consumption have larger than 
-production,
-but production is getting closer to consumption in last 9 years
+production, but production is getting closer to consumption in last 9 years
 * From 1988, Oil is not the top of the energy production.
 Natural Gas and Coal are larger.
 * In Petroleum consumption, Transportation usage is 3 times
 larger than Industrial usage.(fig.3.7)
 
-https://www.eia.gov/energyexplained/oil-and-petroleum-products/use-of-oil.php
 
 * Top Petroleum consumption of countries, lines up
 US: 20.3%, CN: 13.2%, IND: 4.6%, JP: 4.1%, RUS: 3.5%
@@ -73,22 +81,27 @@ US: 20.3%, CN: 13.2%, IND: 4.6%, JP: 4.1%, RUS: 3.5%
 
 ### How
 #### What to be clear
-* アメリカは国土の広さ故か輸送への消費がトリプルスコアだった．
-しかし国土の狭い日本も1/5の消費とは言えロシアを抑え4位にランク
-インしている．経済形態もアメリカから学んだものだし，国内の文献
+* アメリカは国土の広さ故か輸送への消費がトリプルスコア
+だった．
+しかし国土の狭い日本も1/5の消費とは言えロシアを抑え4位にランクインしている．経済形態もアメリカから学んだものだし，国内の文献
 でも石油の重要性や経済への依存度は同じように学べるだろう．
+* ガソリンが用途のトップで45%を占めている．蒸留物が
+2位で20%になり，ヒーターと建造物，や交通機関の燃料と
+なっている, そしてHGLが石油化学製品の生産に使われている
 
 #### Demonstrativity, Objectivity
-* US govが発行しているdataだから実証性も，客観性もこの上なく
-高い．
+* US govが発行しているdataだから実証性も，客観性もこの上なく高い．
 
 ## Result(hypothesis)
-* 現状輸送がとても大きな消費の割合を占めていて，国土の広い
-ロシアの輸送コストはたかそうなのに日本の方が石油の消費が多い
-という視点から，アメリカの石油の使い方の本質に切り込めるのでは
-ないだろうかと感じた．
+* 現状輸送がとても大きな消費の割合を占めていて，
+国土の広いロシアの輸送コストはたかそうなのに
+日本の方が石油の消費が多い という視点から，
+アメリカの莫大な輸送消費の本質に切り込めるのではないだろうかと感じた．
 
 ## Meaning, Originality
-* 世界システムの把握, 発見からのtransitionを説明した研究は
-少ない．
+* 世界システムの把握，漠然とわかっている現代社会生活
+の石油への依存とどうしてこうなったかを明文化して啓蒙
+する.発見からのtransitionを説明した研究は
+少ない．CiNiiをざっと見たところ全体的なアメリカを
+中心とした石油とその意義についての同テーマの研究はなかった
 
